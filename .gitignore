@@ -6,9 +6,13 @@ dist/
 wheels/
 *.egg-info
 
+# Secrets
+.env
+
 # Virtual environments
 .venv
 
 # Data
 data/raw/
 data/processed/
+data/metadata/
